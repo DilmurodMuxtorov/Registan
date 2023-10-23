@@ -19,6 +19,9 @@
 .secondicon {
   border-radius: 10px;
 }
+.bdrs {
+  border-radius: 20px;
+}
 
 .mejs-container:focus {
   outline: 0;
