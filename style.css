@@ -606,12 +606,15 @@ body.leftmenu .blog-wrapper {
 .navbar-brand.with-text {
   color: #fff !important;
   padding-left: 10px !important;
-  font-size: 24px;
+  font-size: 28px;
+  font-family: DarkerGrotesque-Bold;
   margin-right: 20px;
   font-weight: 700;
   padding-top: 14px;
 }
-
+body p {
+  font-family: DarkerGrotesque-Medium;
+}
 .normal-header {
   background-color: transparent;
   position: absolute;
@@ -643,8 +646,8 @@ body.leftmenu .blog-wrapper {
 .normal-header .navbar-nav > li > a {
   color: #ffffff !important;
   display: block;
-  font-size: 13px;
-  font-weight: 400;
+  font-size: 18px;
+  font-family: DarkerGrotesque-Medium;
   letter-spacing: 0.5px;
   padding: 15px 10px;
   text-transform: capitalize;

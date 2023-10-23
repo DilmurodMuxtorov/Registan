@@ -9,19 +9,19 @@
 /******************************************/
 
 .mejs-controls .mejs-time-rail .mejs-time-current {
-    background: #e74c3c !important;
+  background: #e74c3c !important;
 }
 
 #bbpress-forums li.bbp-footer,
 #bbpress-forums li.bbp-header,
 .fileupload .btn,
-.cart-body .panel-info>.panel-heading,
-.checkbox-primary input[type="checkbox"]:checked+label::before,
-.checkbox-primary input[type="radio"]:checked+label::before,
+.cart-body .panel-info > .panel-heading,
+.checkbox-primary input[type="checkbox"]:checked + label::before,
+.checkbox-primary input[type="radio"]:checked + label::before,
 .progress-bar-success,
 .course-table .fa-close,
-.pagination>li>a:hover,
-.pagination>li>span:hover,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
 body.leftmenu .alignleftlist.service-list .widget:hover img.alignleft,
 .testi-carousel.owl-theme .owl-nav [class*="owl-"]:hover,
 .course-carousel.owl-theme .owl-nav [class*="owl-"]:hover,
@@ -30,24 +30,24 @@ body.leftmenu .alignleftlist.service-list .widget:hover img.alignleft,
 .large-buttons .btn-primary,
 .demo-parallax .btn-inverse,
 .btn-primary {
-    background-color: #e74c3c !important;
-    border-color: #e74c3c !important;
-    color: #ffffff !important;
+  background-color: #e74c3c !important;
+  border-color: #e74c3c !important;
+  color: #ffffff !important;
 }
 
 .aboutme .tagline h5,
 .copyrights .footer-social i:hover,
 .mark,
 mark {
-    background-color: #e74c3c !important;
-    color: #ffffff;
+  background-color: #e74c3c !important;
+  color: #ffffff;
 }
 
 body.leftmenu .sidebar-nav li:active,
 body.leftmenu .sidebar-nav li.active,
 body.leftmenu .sidebar-nav li:focus,
 body.leftmenu .sidebar-nav li:hover {
-    border-right-color: #e74c3c;
+  border-right-color: #e74c3c;
 }
 
 div.bbp-template-notice a,
@@ -76,24 +76,24 @@ a:hover,
 a:focus,
 .fa-heart,
 .copyrights li:hover a {
-    color: #e74c3c !important;
+  color: #e74c3c !important;
 }
 
 .yamm hr,
 .form-control:focus {
-    border-color: #e74c3c !important;
+  border-color: #e74c3c !important;
 }
 
 ::-moz-selection {
-    color: #ffffff;
-    text-shadow: none;
-    background: #e74c3c;
+  color: #ffffff;
+  text-shadow: none;
+  background: #e74c3c;
 }
 
 ::selection {
-    color: #ffffff;
-    text-shadow: none;
-    background: #e74c3c;
+  color: #ffffff;
+  text-shadow: none;
+  background: #e74c3c;
 }
 
 #superslides .slides-navigation a.next,
@@ -103,9 +103,9 @@ a:focus,
 .looking-photo .centermessage .btn:focus,
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #c0392b !important;
-    border-color: #c0392b !important;
-    color: #ffffff !important;
+  background-color: #c0392b !important;
+  border-color: #c0392b !important;
+  color: #ffffff !important;
 }
 
 /** GREEN **/
@@ -119,17 +119,17 @@ a:focus,
 .magnifier .magni-desc .firsticon,
 .cartmenu sup,
 .navbar-right li.btn {
-    background-color: #27ae60;
-    border-color: #27ae60;
-    color: #ffffff;
+  background-color: #27ae60;
+  border-color: #27ae60;
+  color: #ffffff;
 }
 
 .btn-default.active,
 .btn-default:active,
-.open>.dropdown-toggle.btn-default,
+.open > .dropdown-toggle.btn-default,
 .btn-default:focus,
 .btn-default:hover {
-    background-color: #1ca355 !important;
-    border-color: #1ca355 !important;
-    color: #fff !important;
+  background-color: #1ca355 !important;
+  border-color: #1ca355 !important;
+  color: #fff !important;
 }
