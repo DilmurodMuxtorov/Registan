@@ -1,35 +1,6 @@
-/******************************************
-
-    1. IMPORT FONTS
-    2. IMPORT FILES
-    3. STARTUP
-    4. LEFT MENU
-    5. PRICING
-    6. CONTACT
-    7. HEADER
-    8. WP CORE
-    9. BUTTONS
-    10. SECTIONS
-    11. COURSES
-    12. WAYPOINTS
-    13. AGENCY SLIDER
-    14. FOOTER
-    15. PORTFOLIO
-    16. BLOG & PAGES
-    17. SIDEBAR
-    18. FONTS
-    19. MICS
-
-/******************************************
-    IMPORT FONTS
-******************************************/
-
 @import url(https://fonts.googleapis.com/css?family=Lato:400,900italic,900,700italic,700,400italic,300italic,300,100italic,100&subset=latin,latin-ext);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700italic,700,400italic);
-/******************************************
-    IMPORT FILES
-******************************************/
 
 @import url(css/font-awesome.min.css);
 @import url(css/open-iconic.min.css);
@@ -37,9 +8,6 @@
 @import url(css/carousel.css);
 @import url(css/bbpress.css);
 @import url(css/build/mediaelementplayer.min.css);
-/******************************************
-    STARTUP
-******************************************/
 
 html,
 body {
@@ -3545,7 +3513,7 @@ h6,
 }
 
 .cssload-loader:before {
-  border: 2px solid #d7592b;
+  border: 2px solid #240871;
   top: -1px;
   left: -1px;
   opacity: 0;
@@ -3557,7 +3525,7 @@ h6,
 }
 
 .cssload-loader:after {
-  background-color: #d7592b;
+  background-color: #390a96;
   animation-name: cssload-pulse-2;
   -o-animation-name: cssload-pulse-2;
   -ms-animation-name: cssload-pulse-2;
